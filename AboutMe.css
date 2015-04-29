@@ -1,0 +1,43 @@
+body{
+    background-size: 140% 140%;
+    background-repeat: no-repeat;
+}
+a{
+    color:pink;
+}
+p{
+    font-family:comic sans ms;
+    color:yellow;
+    font-size:20px;
+    text-align:center;
+}
+div{
+    text-align:center;
+}
+button{
+    font-family:comic sans ms;
+    font-size:14px;
+    height:20px;
+    border-radius:20px;
+    background-color:pink;
+    border:none;
+    margin:auto;
+    transition: all 0.4 ease;
+    text-align:center;
+}
+button:hover{
+    background-color:yellow;
+  -webkit-transform: scale(1.2); 
+}
+h1{
+    text-align:center;
+    font-family:comic sans ms;
+    color:yellow;
+}
+
+img{
+    margin-left:5px;
+    width:175px;
+    height:250px;
+}
+    
