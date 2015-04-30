@@ -1,3 +1,6 @@
+a:visited{
+    color:black;
+}
 #Grid {
     background-color: yellow;
   background-size:25px, 25px;

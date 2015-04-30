@@ -1,12 +1,3 @@
-/*
-    Document   : Vindinium/Vindinium.css
-    Created on : 2015-04-30 08:56 PM
-    Author     : JuanToomas
-    Description:
-    Purpose of the stylesheet follows.
-    To change this template use Tools | Templates.
-*/
-
-root {
-    display: block;
+a:visited{
+    color:black;
 }

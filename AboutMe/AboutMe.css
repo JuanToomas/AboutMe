@@ -5,6 +5,9 @@ body{
 a{
     color:pink;
 }
+a:visited{
+    color:red;
+}
 p{
     font-family:comic sans ms;
     color:yellow;
