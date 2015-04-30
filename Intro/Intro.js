@@ -7,6 +7,3 @@ function Main2(){
 function Main3(){
     document.getElementById("#yolo").innerHTML="<div id = 'center'><p class = 'cursive'> <img src='https://www.overviewproject.org/assets/images/logo-large.png'/> <br> In this website, I have briefly introduced myself while also explaining the general idea of what we do in Computer Science. For more information, click on the other links for other projects that I have done! Thank you! </p>"
 }
-function Main4(){
-    document.getElementById("#yolo").innerHTML="<p class = 'cursive'> </p>"
-}
