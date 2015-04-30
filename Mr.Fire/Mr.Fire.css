@@ -1,0 +1,42 @@
+#Grid {
+    background-color: yellow;
+  background-size:25px, 25px;
+}
+td {
+    border:0px solid yellow;
+    width:25px;
+    height:25px;
+}
+.arrow{
+width:50%;
+}
+
+#StartGame {
+  position:absolute;
+  left:177px;
+  text-align:left;
+  transition: all 0.6s ease;
+}
+#StartGame:hover { 
+    transform: scale(1.2);
+    background-color:yellow;
+}
+
+#StartGameButton {
+  text-align:left;
+}
+
+#Gameboard {
+  text-align:center;
+}
+#PointSystem {
+    background-color:white;
+    border: 1px solid white;
+    color:black;
+    font-family:Verdana;
+}
+
+.Points {
+  color:black;
+  font-family:Verdana;
+}

@@ -1,0 +1,36 @@
+button{
+    font-family:comic sans ms;
+    font-size:14px;
+    height:20px;
+    border-radius:20px;
+    background-color:blue;
+    border:none;
+    margin:auto;
+    transition: all 0.4 ease;
+}
+button:hover{
+    background-color:red;
+  -webkit-transform: scale(1.2); 
+}
+img{
+    width:400px;
+    height:250px;
+    text-align:center;
+}
+h1{
+    color:red;
+    font-family:comic sans ms;
+    text-align:center;
+}
+h2{
+    color:red;
+    font-family:comic sans ms;
+    text-align:center;
+}
+p{
+    font-family:comic sans ms;
+    text-align:center;
+}
+#center{
+    text-align center
+}

@@ -1,6 +1,6 @@
 body{
-    background-size: 140% 140%;
-    background-repeat: no-repeat;
+    background-image: url("http://wallfoy.com/wp-content/uploads/2013/07/Computer-Wallpaper-Nature-163.jpg");
+    background-size: 100%;
 }
 a{
     color:pink;
@@ -23,7 +23,6 @@ button{
     border:none;
     margin:auto;
     transition: all 0.4 ease;
-    text-align:center;
 }
 button:hover{
     background-color:yellow;
@@ -35,7 +34,7 @@ h1{
     color:yellow;
 }
 
-img{
+.movies{
     margin-left:5px;
     width:175px;
     height:250px;
