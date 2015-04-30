@@ -2,20 +2,23 @@
 <html>
 
 <head>
-    <title></title>
+    <title>Vindinium</title>
+    
+	<link rel='stylesheet' href='Vindinium.css'/>
+	<script src='Vindinium.js'></script>
 </head>
 
 <body>
     <button onclick="Main1()"> <a href="../Index/index.html">Index!</a>
     </button>
-    <h1>Vindinium</h1>
     <div>
+        <h1>Vindinium</h1>
         <code>
             <pre>    
 var Bot = require('bot');
 var PF = require('pathfinding');
-//var bot = new Bot('wbcyf779', 'arena', 'http://24.6.28.217:9000'); //Put your bot's code here and change training to Arena when you want to fight others.
-var bot = new Bot('kvydetk8', 'training', 'http://vindinium.org/'); //Put your bot's code here and change training to Arena when you want to fight others.
+//var bot = new Bot('wbcyf779', 'arena', 'http://24.6.28.217:9000'); //Private
+var bot = new Bot('kvydetk8', 'training', 'http://vindinium.org/'); //Public
 // 40bjst1n is main account code while as 5gknw95y, wbcyf779 is test account. kvydetk8 is real account//
 var goDir;
 var Promise = require('bluebird');
